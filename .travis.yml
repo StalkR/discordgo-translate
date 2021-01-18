@@ -1,5 +1,9 @@
 language: go
 
+# use current stable
+# must be >= 1.13 to use crypto/ed25519
+go: 1.15.x
+
 install:
   - go get -t -v ./...
   - go build -v ./...
