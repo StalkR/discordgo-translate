@@ -34,8 +34,8 @@ refuse to translate messages from other bots, so I had to make my own.
 ## Bugs, comments, questions
 Create a [new issue][7].
 
-[1]: https://api.travis-ci.org/StalkR/discordgo-translate.png?branch=master
-[2]: https://travis-ci.org/StalkR/discordgo-translate
+[1]: https://github.com/StalkR/discordgo-translate/actions/workflows/build.yml/badge.svg
+[2]: https://github.com/StalkR/discordgo-translate/actions/workflows/build.yml
 [3]: https://godoc.org/github.com/StalkR/discordgo-translate?status.png
 [4]: https://godoc.org/github.com/StalkR/discordgo-translate
 [5]: https://github.com/bwmarrin/discordgo
